@@ -3,9 +3,6 @@
 <p align='center'>
 </p>
 
-
-[![Github](https://img.shields.io/github/followers/Anuj-Rathore24?label=Follow&style=social)](https://github.com/jeet-09)
-
 <div size='20px'>Hi! I'm Aman, a passionate developer compiling my path in the tech world. Thank you for taking the time to check out my GitHub profile! 😄 
 </div>
 

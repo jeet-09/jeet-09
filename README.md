@@ -39,9 +39,7 @@
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" style="margin-right: 10px; margin-top: 10px;" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UC_eVwZFXWqG5tCmVsc5aNzA" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" style="margin-left: 10px; margin-top: 10px;" />
-</a>
+
 
 <br>
 <br>
